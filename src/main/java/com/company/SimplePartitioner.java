@@ -1,3 +1,5 @@
+package com.company;
+
 import kafka.producer.Partitioner;
 import kafka.utils.VerifiableProperties;
 
